@@ -14,3 +14,4 @@ if counter % 2 == 0
 else
   puts "O"
 end
+end
